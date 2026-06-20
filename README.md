@@ -21,7 +21,7 @@ El objetivo principal del algoritmo es encontrar la mejor secuencia de operacion
 La forma más rápida y recomendada de revisar este proyecto es utilizando **Google Colab**, ya que evita tener que instalar librerías manualmente.
 
 ### Opción 1: Google Colab (Recomendada)
-1. Entra a Google Colab y sube el archivo `Tarea2_Opti.ipynb`.
+1. Entra a Google Colab y sube el archivo `Tarea2_Optimizacion.ipynb`.
 2. Sube también los archivos de las instancias (`instancia01_facil.txt`, `instancia02_media.txt`, `instancia03_dificil.txt`) al entorno de Colab.
 3. Ejecuta todas las celdas del cuaderno en orden.
 
